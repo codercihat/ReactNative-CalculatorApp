@@ -1,4 +1,4 @@
-#It is my first React Native project. 
+#It is my second React Native project. 
 
 I am happy to share it. 
 
